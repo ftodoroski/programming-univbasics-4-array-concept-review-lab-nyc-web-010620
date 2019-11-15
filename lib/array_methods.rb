@@ -32,4 +32,6 @@ def find_min_value(array)
 
     smallest_value = value if value < smallest_value
   end
+
+  smallest_value
 end
